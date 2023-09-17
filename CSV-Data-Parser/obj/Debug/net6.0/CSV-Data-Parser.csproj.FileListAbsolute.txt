@@ -1,0 +1,14 @@
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\bin\Debug\net6.0\CSV-Data-Parser.exe
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\bin\Debug\net6.0\CSV-Data-Parser.deps.json
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\bin\Debug\net6.0\CSV-Data-Parser.runtimeconfig.json
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\bin\Debug\net6.0\CSV-Data-Parser.dll
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\bin\Debug\net6.0\CSV-Data-Parser.pdb
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\obj\Debug\net6.0\CSV-Data-Parser.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\obj\Debug\net6.0\CSV-Data-Parser.AssemblyInfoInputs.cache
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\obj\Debug\net6.0\CSV-Data-Parser.AssemblyInfo.cs
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\obj\Debug\net6.0\CSV-Data-Parser.csproj.CoreCompileInputs.cache
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\obj\Debug\net6.0\CSV-Data-Parser.dll
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\obj\Debug\net6.0\refint\CSV-Data-Parser.dll
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\obj\Debug\net6.0\CSV-Data-Parser.pdb
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\obj\Debug\net6.0\CSV-Data-Parser.genruntimeconfig.cache
+F:\Projekty_testowe\CSV-Data-Parser\CSV-Data-Parser\obj\Debug\net6.0\ref\CSV-Data-Parser.dll
